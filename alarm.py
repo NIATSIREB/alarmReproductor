@@ -25,8 +25,8 @@ def searchSong(song):
         sleep(1)
 
 
-client_id = "253f4c8a18b848828267b13f797966cd"
-client_secret = "5a156b0bd4084211bcc786d3cd85c975"
+client_id = "Here goes the client id value"
+client_secret = "here goes your client secrect values"
 
 author = ""
 song = "something in the way".upper()
