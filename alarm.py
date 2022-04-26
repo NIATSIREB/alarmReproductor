@@ -22,11 +22,11 @@ def searchSong(song):
 
     for i in range(2):
         pyautogui.press("enter")
-        sleep(1)
+        sleep(3)
 
 
-client_id = "253f4c8a18b848828267b13f797966cd"
-client_secret = "5a156b0bd4084211bcc786d3cd85c975"
+client_id = ""  # Here it goes your client id
+client_secret = ""  # Here it goes your client secret value
 
 author = ""
 song = "something in the way".upper()
